@@ -1,0 +1,35 @@
+/* Body */
+body {
+    background-color: #212936;
+}
+
+/* scoreboard */
+/* Font */
+.font {
+    color: #ffff;
+    font-size: 300%;
+}
+
+/* Number */
+.number {
+    color: #ffff;
+    font-size: 150px;
+    padding:0 10%;
+}
+
+/* button */
+.btn-plus {
+    background-color: #607EAA ;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+}
+.btn-minus {
+    background-color: #607EAA ;
+    margin-left: 15px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+}
+
+
